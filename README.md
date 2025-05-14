@@ -63,11 +63,11 @@ Y= A⊕B
 
 
 **PROGRAM**
-
+Developed by:Alagu Nachiyar K
+Register no:212222240006
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by:Alagu Nachiyar K
-Register no:212222240006
+ 
 ![Screenshot 2024-11-28 141826](https://github.com/user-attachments/assets/67438639-c99d-45eb-b733-12103bad5026)
 
 **Logic symbol & Truthtable**
